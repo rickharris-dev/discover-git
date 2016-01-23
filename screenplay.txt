@@ -8,8 +8,14 @@ Written by:
 
 The Holberton School Students - January 2016 batch
 
-Students:
-Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarura, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag
+Students: Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin
+"Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler
+Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi
+Mugarura, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe
+Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee
+Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann,
+Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi
+Sinha, Steven Garcia, Tasneem Farag
 
 FADE IN:
 
@@ -54,6 +60,7 @@ DAVID
 Oh, we'll definitely be able to learn from each other then! 
 
 
+
 AMY
 
 Sounds like it! Do you speak Latin?
@@ -67,7 +74,11 @@ Tempus Fugit! I gotta go!
 
 DAVID
 
-I didn't know that you could use SSH keys to authenticate.
+I didn't know that you could use SSH keys to authenticate. Do you like pizza?
+
+NAOMI
+
+not really
 
 NAOMI
 
@@ -111,6 +122,10 @@ Same!
 
 Integer turpis turpis, consequat id auctor at, elementum ut neque. Donec eleifend, ante a lobortis aliquam, ligula sapien gravida nunc, et ullamcorper ante tellus eu eros. Ut imperdiet tempus ipsum, id tincidunt velit laoreet id. Donec facilisis justo eget aliquet malesuada. Nullam accumsan justo eget felis placerat, non aliquam neque lacinia. Proin venenatis turpis sed fringilla ultrices. Pellentesque fermentum ipsum vitae ante venenatis vehicula. Nulla tristique metus in posuere semper. Nam volutpat sed dui sed pharetra. Phasellus eleifend libero a sapien posuere suscipit. Etiam vel tristique purus. Morbi eget tincidunt leo. Mauris aliquet fringilla felis id semper.
 
+MARINE
+Who's AMY?
+
+
 FADE OUT, CURAIN GOES DOWN :).
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
@@ -118,5 +133,5 @@ Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 THE END
 
 
-THIS IS A CHANGE BY BENNETT BUCHANAN.
+THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text"
 
