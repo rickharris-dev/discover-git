@@ -64,7 +64,10 @@ Tempus Fugit! I gotta go!
 
 (AMY exits...)
 
+
 DAVID
+
+I didn't know that you could use SSH keys to authenticate.
 
 NAOMI
 
