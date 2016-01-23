@@ -2,7 +2,7 @@ ls A FIRST DAY AT HOLBERTON SCHOOL
 
 or
 
-GIT: you know you love it!
+GIT: U know you love it!
 
 Written by
 
